@@ -1,4 +1,6 @@
 # farmerconnect
 This is frontend folder
 
-Create by-Nikhil kolpyak 
+Created by-Nikhil kolpyak 
+
+date:18-11-2026
